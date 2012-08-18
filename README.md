@@ -1,7 +1,7 @@
 ## About ##
-The bees algorithm is a population-based search algorithm in the field of swarm intelligence that finds some optimal solution by modeling the foraging bee-havior of honey bees.
+The [bees algorithm](http://en.wikipedia.org/wiki/Bees_algorithm) is a population-based search algorithm in the field of [swarm intelligence](http://en.wikipedia.org/wiki/Swarm_intelligence) that finds some optimal solution by modeling the foraging bee-havior of honey bees.
 
-Rough psuedocode (taken from [Wikipedia](http://en.wikipedia.org/wiki/Bees_algorithm)):
+Rough psuedocode (taken from [Wikipedia](http://en.wikipedia.org/wiki/Bees_algorithm#The_Bees_Algorithm)):
 
 1. `Initialize population with random solutions.`
 2. `Evaluate fitness of the population.`
